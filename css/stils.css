@@ -13,6 +13,9 @@ body {
     background-color: #474e5d; /* Dark Blue */
     color: #ffffff;
   }
+  .bg-2 a:hover {
+      color: #77add9;
+  }
   .bg-3 { 
     background-color: #ffffff; /* White */
     color: #555555;
